@@ -6,7 +6,7 @@
 [ ] Database interacting with Modded server\
 [ ] Documentation (I know... I should have done this from the beginning)\
 [?] 1.0 Release of server whitelist software using API Keys for access to our user database (or your own json file output from your own website)\
-[?] 2.0 Release of full suite of software, including a gui? (Not anytime soon, the project needs to be stable first)\
+[?] 2.0 Release of full suite of software, including a gui? (Not anytime soon, the project needs to be stable first)
 
 ## Recent Updates
 **1.0 Release!**\
