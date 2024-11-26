@@ -10,7 +10,7 @@
 
 ## Recent Updates
 **Work has begun on server management software!**\
-After a long hiatus I've finally resumed work on this project. Currently working on the core of 1.0 server mangement software. More updates to come...\
+After a long hiatus I've finally resumed work on this project. Currently working on the core of 1.0 server mangement software. More updates to come...
 
 **Website 1.0 Release!**\
 We have finally deployed whitelist scripts to a server, allowing it to have a database managed whitelist!!!\
